@@ -1,0 +1,13 @@
+.box{
+  margin: 0 auto;
+	width: 300px;
+	border:1px solid #000;
+	margin-top: 50px;
+	background-color: white;
+	color: black;
+	text-align: center;
+	padding: 40px;
+	font-size: 30px;
+	font-size: bold;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
